@@ -1,0 +1,22 @@
+String to Number
+--------------
+Apple to 3
+so now array [0,0,0,0.5,0]
+0.5 IS the price of apple stored at 3rd index
+--------------
+Milk to 0
+so now array [1.7,0,0,0.5,0]
+1.7 IS the price of milk stored at 0th index
+
+
+Now we can get price by say name only (milk)
+then get price of 0th index
+
+In python 
+dict() implement hashtable
+In Js
+book["apple"]=0.2
+
+
+HASH TABLE INSIDE
+- Load factor = #of items in hash table / total number of slots 
